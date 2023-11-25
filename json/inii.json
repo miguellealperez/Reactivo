@@ -1,0 +1,81 @@
+{
+    "general": {
+      "version": "1.0",
+      "linkvideo": "",
+      "prueba": {
+        "esPrueba": false,
+        "texto": "Servicio en pruebas"
+      }
+    },
+    "botones": [
+      {
+        "id": "1",
+        "eleccion": "1",
+        "hab": "activado"
+      },
+      {
+        "id": "2",
+        "eleccion": "2",
+        "hab": "activado"
+      },
+      {
+        "id": "3",
+        "eleccion": "3",
+        "hab": "activado"
+      },
+      {
+        "id": "4",
+        "eleccion": "4",
+        "hab": "activado"
+      },
+      {
+        "id": "5",
+        "eleccion": "5",
+        "hab": "activado"
+      }
+    ],
+    "aviso": {},
+    "leyenda": [
+      {
+        "texto": ""
+      }
+    ],
+    "isClosed": false,
+    "appsVisibles": true,
+    "showCurules": false,
+    "busquedasSugeridas": [
+      {
+        "i": 144,
+        "n": "BOGOTA. D.C.",
+        "c": "16001",
+        "s": "BOGOTA.-D.C.",
+        "l": 3,
+        "p": [5],
+        "r": [144, -1, 144, -1, 37, 144],
+        "h": []
+      },
+      {
+        "i": 593,
+        "n": "MEDELLIN",
+        "c": "01001",
+        "s": "MEDELLIN",
+        "l": 3,
+        "p": [2],
+        "r": [586, 591, 586, 591, 71, 593],
+        "h": [
+          1207, 1255, 1291, 1328, 1371, 1403, 1429, 1451, 1461, 1479, 1491, 1501,
+          1509, 1513, 1518, 1521, 1542, 1618, 1628, 1642, 1797
+        ]
+      },
+      {
+        "i": 79,
+        "n": "ANTIOQUIA",
+        "c": "01031",
+        "s": "ANTIOQUIA",
+        "l": 3,
+        "p": [2],
+        "r": [79, 78, 79, 78, -1, 79],
+        "h": []
+      }
+    ]
+  }
